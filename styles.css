@@ -1,0 +1,55 @@
+#odin-logo {
+    width: auto;
+    height: 200px;
+}
+
+#Title {
+    font-size: 50px;
+    background-color: rgb(223, 129, 53);
+    color:rgb(255, 249, 230)
+}
+
+.button-color {
+    color: rgb(85, 104, 165);
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.img-recipes {
+    width: 150px;
+    height: auto;
+}
+
+#Title,
+.recipes-title {
+    text-align: center;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+   font-family: Helvetica, Arial, "Times New Roman", sans-serif;
+}
+
+.the-food {
+    width: 400px;
+    height: auto;
+}
+
+ul {
+    background-color: blanchedalmond;
+}
+
+ol {
+    background-color:blanchedalmond;
+}
+
+.cooking {
+    color: rgb(27, 85, 85);
+}
